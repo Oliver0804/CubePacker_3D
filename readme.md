@@ -31,7 +31,7 @@ CubePacker 3D 是一個能夠模擬並視覺化立方體如何在一個給定的
 在Y軸方向上最多可以放入 5 個立方體。
 在Z軸方向上最多可以放入 5 個立方體。
 ```
-
+![https://github.com/Oliver0804/CubePacker_3D/blob/main/pic/demo.png](https://github.com/Oliver0804/CubePacker_3D/blob/main/pic/demo.png)
 
 ## 開發環境
 
